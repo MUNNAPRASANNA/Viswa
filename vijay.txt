@@ -1,3 +1,7 @@
 kdlf;b;mbamm
 hi this is viswa data 
+<<<<<<< HEAD
 hi this is vijay
+=======
+hello viswa 
+>>>>>>> 9b91c0cd4d7928cbd585bc63086f067e6983d826
